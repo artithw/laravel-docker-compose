@@ -45,5 +45,5 @@ services:
       - sevens
 
 networks:
-  travellist:
+  sevens:
     driver: bridge
